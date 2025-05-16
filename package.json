@@ -1,0 +1,21 @@
+{
+  "name": "bathroom-scheduler",
+  "version": "1.0.0",
+  "description": "This project will make a scheduler for bathroom!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "flatpickr": "^4.6.13",
+    "mongodb-memory-server": "^10.1.4",
+    "mongoose": "^8.14.3",
+    "nodemon": "^3.1.10"
+  }
+}
